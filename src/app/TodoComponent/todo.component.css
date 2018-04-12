@@ -1,0 +1,27 @@
+.done {
+  text-decoration: line-through;
+  opacity: 0.5;
+}
+mat-card {
+  width: 90%;
+  max-width: 400px;
+  margin: 20px auto 0 auto;
+}
+mat-slide-toggle {
+  width: 100%;
+}
+.mat-list-item-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+mat-divider {
+  top: 0;
+  bottom: auto;
+}
+mat-icon {
+  color: grey;
+}
+.mat-form-field-wrapper {
+  padding-bottom: 0;
+}
